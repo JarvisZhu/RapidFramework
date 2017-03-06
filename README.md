@@ -1,5 +1,8 @@
 # RapidFramework
-<br/>该项目是将原google code上的项目进行整理与升级，原项目百度百科链接地址：http://baike.baidu.com/link?url=Jj-RtI0JjuhU3RtSpRWp-fNMVizcxcP2gFzOu7IE03HgxjZQeNXfkiDN8VYgCrglauBQ_nUg3LyJaKH8Cw5sZ3GL_xHuR1kaOj9Mw6jLMWbkmWNIcGVeVhSTMhs9UlGG35o68hK5ELwUszeg2Zg_G8v2DVpGMpKKe4S9T0BLhw7
+<br/>该项目是将原google code上的项目进行整理与升级，原项目介绍：
+<br/>http://baike.baidu.com/link?url=Jj-RtI0JjuhU3RtSpRWp-fNMVizcxcP2gFzOu7IE03HgxjZQeNXfkiDN8VYgCrglauBQ_nUg3LyJaKH8Cw5sZ3GL_xHuR1kaOj9Mw6jLMWbkmWNIcGVeVhSTMhs9UlGG35o68hK5ELwUszeg2Zg_G8v2DVpGMpKKe4S9T0BLhw7
+<br/>http://www.oschina.net/p/rapid-framework/
+<br/>
 <br/>所进行的整理大概如下：
 <br/>1.版本升级，Spring版本全部升级至4.2.1；JDK版本升级至1.8，注意：在JDK1.7下编译会有问题，需要稍作修改。
 <br/>2.原项目有好几个Jar包，此次整理全部整合到一个Jar包中，并且将tld文件也放到了Jar包中。
